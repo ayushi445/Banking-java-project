@@ -1,6 +1,6 @@
 Create a ubuntu machine 
 sudo su
-wget https://raw.githubusercontent.com/akshu20791/Deployment-script/main/jenkins.sh
+wget https://raw.githubusercontent.com/ayushi445/Deployment-script/main/jenkins.sh
 ls
 chmod 777 jenkins.sh
 ls
@@ -13,4 +13,4 @@ service jenkins restart
  service jenkins restart
 
 
- Go to jenkins -> create pipeline and select https://github.com/akshu20791/Banking-java-project/ as source code project
+ Go to jenkins -> create pipeline and select https://github.com/ayushi455/Banking-java-project/ as source code project
